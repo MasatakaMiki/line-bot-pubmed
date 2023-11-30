@@ -1,0 +1,5 @@
+{
+    "containerApps.deployWorkspaceProject.containerAppResourceGroupName": "line-bot-pubmed",
+    "containerApps.deployWorkspaceProject.containerAppName": "line-bot-pubmed",
+    "containerApps.deployWorkspaceProject.containerRegistryName": "linebotpubmed0faefb"
+}

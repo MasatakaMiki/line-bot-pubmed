@@ -4,6 +4,9 @@ ENV PYTHONUNBUFFERED=1
 
 WORKDIR /src
 
+ENV PYTHONPYCACHEPREFIX=/var/cache/python
+ENV PYTHONPATH=/src
+
 # pipを使ってpoetryをインストール
 RUN pip install poetry
 
